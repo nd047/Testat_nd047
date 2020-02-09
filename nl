@@ -9,6 +9,6 @@ bs,Sugg,1,1
 mbb,Mercedes-Benz Bank,99,0
 ja,Jako,99,0
 mb,Mercedes-Benz,99,0
-kc,Kärcher,99,0
+kc,Kaercher,99,0
 avfb,Aufsichtsrat VfB,99,0
-kr,krombacher,99,0
+kr,Krombacher,99,0
