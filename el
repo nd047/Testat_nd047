@@ -1,0 +1,13 @@
+from,to,position
+wd,avfb,1
+wp,avfb,1
+wp,mbb,2
+wp,mb,2
+bg,avfb,1
+ho,avfb,1
+hj,avfb,1
+hj,kc,2
+fr,mbb,2
+fr,avfb,1
+fr,mb,2
+bs,avfb,1
